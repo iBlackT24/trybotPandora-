@@ -1,0 +1,2 @@
+# trybotPandora-
+AIML para trybot
